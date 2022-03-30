@@ -6,6 +6,7 @@ description: This file explains the local experience of job training offered by 
   in legislative terms.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/d7eca3912c0d97fd1e417a5b683da363_notes9.pdf
 file_type: application/pdf
+parent_uid: 577cf142-0265-1a9b-642c-01cffd3da947
 resourcetype: Document
 title: notes9.pdf
 uid: d7eca391-2c0d-97fd-1e41-7a5b683da363
